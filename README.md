@@ -1,4 +1,4 @@
-# 👨‍💻 Salma – Backend Sorcerer 🧙‍♀️
+# Salma – Backend Sorcerer 🧙‍♀️
 
 ![PHP Badge](https://img.shields.io/badge/Code-PHP-8892BF?style=flat-square&logo=php)
 ![Laravel Badge](https://img.shields.io/badge/Framework-Laravel-FF2D20?style=flat-square&logo=laravel)
