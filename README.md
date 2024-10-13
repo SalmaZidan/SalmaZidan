@@ -1,9 +1,11 @@
 # 👨‍💻 Salma – Backend Sorcerer 🧙‍♀️
 
 ![PHP Badge](https://img.shields.io/badge/Code-PHP-8892BF?style=flat-square&logo=php)
-![Node.js Badge](https://img.shields.io/badge/Code-Node.js-68A063?style=flat-square&logo=node.js)
 ![Laravel Badge](https://img.shields.io/badge/Framework-Laravel-FF2D20?style=flat-square&logo=laravel)
 ![MySQL Badge](https://img.shields.io/badge/Database-MySQL-4479A1?style=flat-square&logo=mysql)
+![Vue.js Badge](https://img.shields.io/badge/Code-Vue.js-42b883?style=flat-square&logo=vue.js)
+![Nuxt.js Badge](https://img.shields.io/badge/Framework-Nuxt%203-00C58E?style=flat-square&logo=nuxt.js)
+
 
 > "I break things so you don't have to. Also, I fix them... sometimes."
 
@@ -18,7 +20,7 @@ Welcome to my GitHub! I'm **Salma**, your friendly neighborhood backend develope
 
 ### Frameworks:
 - **Laravel** – Crafting elegant code while pretending it’s not all magic under the hood 🪄
-- **Express.js** – Because lightweight doesn’t mean light on features 🚀
+- **Nuxt 3** – Because static sites need backend vibes too 🚀
 
 ### Databases:
 - **MySQL** – Because data has to live somewhere 🏠
@@ -35,20 +37,14 @@ Welcome to my GitHub! I'm **Salma**, your friendly neighborhood backend develope
 - I’ve personally wrestled with bugs more times than I can count, and every time I emerge victorious (or at least that's what I tell myself).
 - I've learned that "It works on my machine" is not always a valid excuse... but it should be!
 
-## 🌱 Currently Learning
-- **GraphQL** – Because REST APIs just aren’t enough anymore, apparently.
-- **Kubernetes** – Who needs sleep when you can manage containers all day?
-- **Event-driven architecture** – Making things more asynchronous because life isn’t hard enough already.
-
 ## 💼 What I Do
 When I’m not trying to explain to people why the backend is the backbone of everything (seriously), I’m:
-- Designing and optimizing databases (aka, playing Tetris with data).
+- Designing and optimizing databases.
 - Building APIs that don’t break when you look at them funny.
 - Ensuring security, because no one wants to be *that* person with the data breach headline.
 
 ## 📬 Get In Touch
 
 Want to discuss backend brilliance or just rant about code? Feel free to reach out:
-- **Email**: [youremail@example.com](mailto:youremail@example.com)
-- **LinkedIn**: [linkedin.com/in/yourprofile](https://www.linkedin.com/in/yourprofile)
-- **Portfolio**: [www.salma-portfolio.com](https://www.salma-portfolio.com) _(Coming soon... I promise)_
+- **Email**: [salmazidan1997@gmail.com](mailto:salmazidan1997@gmail.com)
+- **LinkedIn**: [linkedin.com/in/salma-zidan-0613a8141](https://www.linkedin.com/in/salma-zidan-0613a8141)
